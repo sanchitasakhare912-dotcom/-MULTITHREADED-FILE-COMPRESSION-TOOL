@@ -27,3 +27,6 @@ From an educational standpoint, this project is an excellent introduction to sys
 
 
 In summary, this multithreaded compression tool is a powerful and elegant solution for efficient file handling. It combines the speed of parallel processing with the reliability of lossless compression, all wrapped in a clean and modular C++ design. Whether used for personal file management, educational purposes, or as a foundation for more complex systems, it stands as a testament to the power of modern C++ and thoughtful software engineering.
+
+<img width="644" height="323" alt="Screenshot 2025-10-18 215337" src="https://github.com/user-attachments/assets/7a8ecdc9-bc73-4367-abcd-3f28760dcec5" />
+
